@@ -9,6 +9,7 @@ psycopg2-binary = "==2.9.7"
 whitenoise = "==6.5.0"
 django-crispy-forms = "==1.14.0"
 environs = "==9.5.0"
+gunicorn = "==21.2.0"
 
 [dev-packages]
 
